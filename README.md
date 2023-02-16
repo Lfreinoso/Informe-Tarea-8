@@ -31,11 +31,14 @@ NRC: 10067
 
 - CAPÍTULO 15
 
+![image](https://user-images.githubusercontent.com/116655812/219513816-dc4a3fad-3a93-4aad-9e4d-ea9ad1b5583c.png)
+
+![image](https://user-images.githubusercontent.com/116655812/219513842-6dea8db7-6486-4918-a8d8-ad33ca429202.png)
 
 
 - CAPÍTULO 16
 
-
+![image](https://user-images.githubusercontent.com/116655812/219513883-867ecc33-56f5-45ef-bde2-72ce2d6ed301.png)
 
 
 # 3. EXPLICACIÓN Y RESOLUCION DE PROBLEMAS 
@@ -409,19 +412,69 @@ VL?
 
 a) 100 Hz   b) 500 Hz   c) 1kHz   d) 2kHz
 
+![image](https://user-images.githubusercontent.com/116655812/219512168-ecef2225-4587-4faf-b4bc-542bac5e3daa.png)
 
 
+7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+![image](https://user-images.githubusercontent.com/116655812/219512260-503a915b-92c5-49e0-9899-384b84c33a39.png)
+
+9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+
+![image](https://user-images.githubusercontent.com/116655812/219512347-23eed677-f623-4dd6-955c-dea55d710163.png)
 
 
+11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/116655812/219512488-aef7221c-fbb4-4b22-8b88-31455b0966a9.png)
+
+a) 
+
+![image](https://user-images.githubusercontent.com/116655812/219512581-417dc9ee-38e5-4649-9115-7ad9f4bcbca6.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/116655812/219512620-e813e165-a3b2-44e3-a4e4-9a18c64c4c4a.png)
 
 
+13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+![image](https://user-images.githubusercontent.com/116655812/219512664-e8599faa-c418-4784-9ca3-b3904412ecca.png)
+
+![image](https://user-images.githubusercontent.com/116655812/219512719-19f9b1c2-d779-4d73-ba94-db6557cf0b88.png)
 
 
+15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias: (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/116655812/219512765-94403856-b0fe-4f01-94c2-58359f502e6e.png)
+
+![image](https://user-images.githubusercontent.com/116655812/219512814-5ab93b79-301a-4d47-8120-c3d150cd2263.png)
 
 
+17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con res�pecto a la entrada a las siguientes frecuencias: (a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz
+
+![image](https://user-images.githubusercontent.com/116655812/219512861-17d70f7a-7166-4768-9a5a-9dd8cf62a779.png)
+
+![image](https://user-images.githubusercontent.com/116655812/219512881-007c33d8-5c85-4d1c-b22e-b2ef95f1cac5.png)
+
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/116655812/219512936-b91ab683-a945-4ef1-856a-e9f306d46520.png)
+
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/116655812/219513001-ac4f41c5-7a26-431b-8f78-5c75b65837b4.png)
+
+23. Determine las siguientes cantidades en la figura 16-65:
+
+![image](https://user-images.githubusercontent.com/116655812/219513041-5d4f73a6-5d68-4fe5-92cb-8a99b609ec24.png)
+
+25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+![image](https://user-images.githubusercontent.com/116655812/219513111-2f5be712-af6a-4df0-9ad2-f98c78f07374.png)
 
 
-
+![image](https://user-images.githubusercontent.com/116655812/219513136-f8ef0317-6b0b-46b9-8b6d-eba08b706dfd.png)
 
 
 
@@ -432,6 +485,12 @@ https://youtu.be/uwAgarlBWWI
 
 # 5. CONCLUSIONES 
 
+- Los circuitos RC son circuitos que están compuestos por una resistencia y un condensador.
+Se caracteriza por que la corriente puede variar con el tiempo.
+
+- Los circuitos RL son aquellos que contienen una bobina (inductor) que tiene auto inductancia, esto quiere decir que evita cambios instantáneos en la corriente.
+
+- En los circuitos RLC se acoplan resistencias, capacitores e inductores. Existe también un ángulo de desfasaje entre las tensiones y corrientes (y entre las potencias), que incluso puede llegar a hacerse cero.
 
 # 6.BIBLIOGRAFÍA
 
