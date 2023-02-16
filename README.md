@@ -391,32 +391,35 @@ e)
 ![image](https://user-images.githubusercontent.com/116655812/219448229-5f9d6a53-8e20-4b86-93d8-c5fa43e594a0.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - CAPÍTULO 16 (EJERCICIOS IMPARES)
+
+1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y
+VL?
+
+15 KHz
+
+3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular
+
+![image](https://user-images.githubusercontent.com/116655812/219449986-0d7af7e9-e303-48b0-be4e-095d2a5b84a3.png)
+
+
+5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/116655812/219450267-6cb6b09f-30b2-4e29-87bd-9985af20a532.png)
+
+a) 100 Hz   b) 500 Hz   c) 1kHz   d) 2kHz
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
